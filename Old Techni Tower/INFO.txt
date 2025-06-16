@@ -1,0 +1,1 @@
+This folder I dedicated to weapon sprites for the Old version of Techni Tower, which was meant to be a rougelike similar to Enter the Gungeon or The binding of Isaac. Some weapons feature some completely different sprites than are similar to the main weapon. This is because there were meant to be upgrades to said weapon.
